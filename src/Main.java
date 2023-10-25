@@ -54,8 +54,8 @@ public class Main {
     }
 
     private static void modulo(int a, int b) {
-        /*if(b == 0)
+        if(b == 0)
             System.out.println("0으로는 나눌수 없습니다.");
-        else System.out.println(a + " % " + b + " = " + (a%b));*/
+        else System.out.println(a + " % " + b + " = " + (a%b));
     }
 }
